@@ -1,0 +1,57 @@
+class RouteList {
+  RouteList._();
+  
+  static const String initial = '/';
+  static const String authWrapper = "/auth_wrapper";
+  static const String splash = "/splash_screen";
+  static const String loginScreen = "/login_screen";
+  static const String homeScreen = "/home_screen";
+  static const String categoryScreen = "/category_screen";
+  static const String cartScreen = "/cart_screen";
+  static const String productDetails = "/product_details";
+  static const String categoryProduct = "/category_product";
+  static const String searchScreen = "/search_screen";
+  static const String profileScreen = "/profile_screen";
+  static const String otpVerify = "/otp_verify_screen";
+  static const String myOrdersScreen = "/myorders_screen";
+  static const String orderSuccess = "/order_success";
+  static const String introScreen = "/intro_screen";
+  static const String registerScreen = "/register_screen";
+  static const String viewAllProductScreen = "/viewall_product_screen";
+  static const String changePassword = "/change_password";
+  static const String notificationScreen = "/notification_screen";
+  static const String wishlistScreen = "/wishlist_screen";
+  static const String checkoutScreen = "/checkout_screen";
+  static const String myOrderDetails = "/myOrderDetails";
+  static const String myAccountScreen = "/my_account_screen";
+  static const String addAddressScreen = "/add_address_screen";
+  static const String fiterScreen = "/filter_screen";
+  static const String myAddress = "/my_address";
+  static const String restPassword = "/reset_password";
+  static const String navigationScreen = "/nav_screen";
+  static const String returnOrderItem = "/return_order_item";
+  static const String viewImageScreen = "/view_image_screen";
+  static const String cmsScreen = "/cms_screen";
+
+  // static const String login = "/login";
+  // static const String myOrders = "/my_orders";
+  // static const String myOrderDetails = "/my_order_details";
+  // static const String checkout = "/checkout";
+  // static const String wishList = "/wishlist";
+  // static const String verificationPending = "/verification_pending";
+  // static const String verifyOtpScreen = "/verify_otp_screen";
+  // static const String kycDetailsScreen = "/kyc_details_screen";
+  // static const String registrationSuccessScreen = "/registration_success_screen";
+  // static const String categoryDetailsScreen = "/category_details_screen";
+  // static const String productDetailsScreen = "/product_details_screen";
+  // static const String filterScreen = "/filter_screen";
+  // static const String addAddressScreen = "/add_address_screen";
+  // static const String myAddressScreen = "/my_address_screen";
+  // static const String editAddressScreen = "/edit_address_screen";
+  // static const String offersProducts = "/offers_products";
+  // static const String uploadKycScreen = "/upload_kyc_screen";
+  // static const String orderSuccess = "/order_success";
+  // static const String splashScreen = "/splash_screen";
+  // static const String webView   = '/web-view';
+  // static const String temporaryUnAvailable = "/temporary_unavailable";
+}
